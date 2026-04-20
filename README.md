@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Victor Manuel Reyes
 
-<!--
-**victorreyessv/victorreyessv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋‍♂️ Sobre mí
+Soy docente de informatica del Instituto Nacional Metropolitano.
+Soy estudiante apasionado por la tecnología y el desarrollo de software.  
+Actualmente me encuentro formándome en programación y bases de datos.  
+Me interesa crear soluciones prácticas que resuelvan problemas reales.  
+Disfruto aprender nuevas herramientas y mejorar constantemente mis habilidades.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías y herramientas
+- 💻 Lenguajes: SQL, JavaScript, HTML, CSS  
+- 🗄️ Bases de Datos: MySQL, SQL Server  
+- ⚙️ Herramientas: Git, GitHub, Excel  
+- 🌐 Desarrollo Web: Bootstrap, Node.js (básico)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos destacados
+### 📚 Sistema de Tienda de Libros Online
+Aplicación de base de datos diseñada para gestionar ventas, clientes e inventario de una librería digital.  
+Incluye diseño relacional, consultas complejas y carga de datos.  
+
+## 📫 Contacto
+- 📧 Correo: victor.m.reyes@clases.edu.sv
